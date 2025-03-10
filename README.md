@@ -10,7 +10,7 @@ Since 25% of a city’s population consumes coffee, how many potential coffee dr
 2. Total Coffee Sales Revenue
 What was the total revenue generated from coffee sales across all cities in the last quarter of 2023?
 
-3.Sales Count for Each Product
+3. Sales Count for Each Product
 How many units of each coffee product have been sold?
 
 4. Average Sales Per Customer by City
