@@ -3,7 +3,7 @@
 ## Project Objective
 The aim of this project is to analyze the online sales data of Monday Coffee, which has been selling its products since January 2023. Based on consumer demand and sales performance, the goal is to recommend the top three cities in India that would be ideal for opening new coffee shop locations.
 
-Key Analysis Areas & Questions
+### Key Analysis Areas & Questions
 1. Coffee Consumer Base in Each City
 Since 25% of a city’s population consumes coffee, how many potential coffee drinkers exist in each location?
 
