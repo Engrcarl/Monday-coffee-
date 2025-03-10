@@ -34,8 +34,9 @@ What is the percentage growth (or decline) in coffee sales over different months
 10. Identifying the Best Cities for Expansion
 Which three cities have the highest sales performance, considering key factors such as:
 
-Total Sales Revenue
-Total Rent Costs
-Total Number of Customers
-Estimated Coffee Consumers
+*Total Sales Revenue
+*Total Rent Costs
+*Total Number of Customers
+*Estimated Coffee Consumers
+
 By evaluating these metrics, we can identify the top three cities that offer the best market potential for Monday Coffee to expand its physical store presence.
